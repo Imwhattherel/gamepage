@@ -1,0 +1,158 @@
+ 
+    body{
+    background-image: linear-gradient(lightblue, lightgreen);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+h1{
+    text-align: center;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+
+ul{
+    margin-left: auto;
+    margin-right: auto;
+}
+ /*areas */
+#types
+{
+    border: 5px solid;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+#examples
+{
+    border: 5px solid;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#cod
+{
+    border: 5px solid;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#wow
+{
+    border: 5px solid;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#fivem
+{
+    border: 5px solid;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#lol
+{
+    border: 5px solid;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#mostwatched
+{
+    border: 5px solid;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#bestsell
+{
+    border: 5px solid;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#companies
+{
+    border: 5px solid;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#platforms
+{
+    border: 5px solid;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+/*logos*/
+
+#codlogo
+{
+
+    width: 50%;
+     margin-left: auto;
+    margin-right: auto;
+  
+}
+#wowlogo
+{
+   
+    width: 50%;
+     margin-left: auto;
+    margin-right: auto;
+}
+#fivemlogo
+{
+   
+    width: 50%;
+     margin-left: auto;
+    margin-right: auto;
+}
+#lollogo
+{
+   
+    width: 50%;
+     margin-left: auto;
+    margin-right: auto;
+}
+/*// info*/
+
+#namedate
+{
+   
+   
+ text-align: center;
+}
