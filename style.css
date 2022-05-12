@@ -14,15 +14,15 @@ h3{
 }
 
 ul{
-   
+    margin-left: auto;
+    margin-right: auto;
 }
  /*areas */
 #types
 {
     border: 5px solid;
     width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+   
     margin-bottom: 20px;
     text-align: center;
     
